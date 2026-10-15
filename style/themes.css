@@ -1,0 +1,52 @@
+.theme-light {
+  --page-bg-color: #fff;
+  --icons-color-fill: #5d7285;
+  --border-color: rgba(0, 0, 0, 0.3); 
+  --text-color: #5d7285;
+  --input-circle-color: #2196F3;
+  --input-block-color: #E9F5FE;
+  --input-text-color: #333F49;
+  --logo-rect-color: #2196f3;
+  --logo-path-color: #fff;
+  --number-block-color: #E9F5FE;
+  --number-text-color: #1E252B;
+  --button-color: #667A8A;
+  --button-icon-color: #fff;
+  --button-text-color: #fff;
+
+  --hover-bg-list-color: #E9F5FE;
+  --hover-text-color: #2196f3;
+  --hover-icons-color: #2196f3;
+  /* --hover-button-color: #2196f3; */
+ --hover-input-circle-color: #2196f3; 
+  --hover-number-block-color: #fff;
+}
+
+.theme-dark {
+  --page-bg-color: #031C30;
+  --icons-color-fill: #EFF2F4;
+  --border-color: rgba(255, 255, 255, 0.3);
+  --text-color: #EFF2F4;
+  --input-circle-color: #EFF2F4;
+  --input-block-color: #667A8A;
+  --input-text-color: #EFF2F4;
+  --logo-rect-color: #fff;
+  --logo-path-color: #2196f3;
+  --number-block-color: #EFF2F4;
+  --number-text-color: #0C7FDA;
+  --button-color: #667A8A;
+  --button-icon-color: #fff;
+  --button-text-color: #fff;
+
+  --hover-bg-list-color: #667A8A;
+  --hover-text-color: #EFF2F4;
+  --hover-icons-color: #EFF2F4;
+  /* --hover-button-color: #2196f3; */
+   --hover-input-circle-color: #667A8A; 
+   --hover-input-text-color: #667A8A;
+  --hover-number-block-color: #fff;
+
+  .logo-sidebar span{
+    display: none;
+  }
+}

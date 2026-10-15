@@ -1,0 +1,23 @@
+:root{
+    --page-bg-color: #fff;
+    --icons-color-fill: #5d7285;
+    --border-color: rgba(0, 0, 0, 0.3); 
+    --text-color: #5d7285;
+    --input-circle-color: #2196F3;
+    --input-block-color: #E9F5FE;
+    --input-text-color: #333F49;
+    --logo-rect-color: #2196f3;
+    --logo-path-color: #fff;
+    --number-block-color: #E9F5FE;
+    --number-text-color: #1E252B;
+    --button-color: #667A8A;
+    --button-icon-color: #fff;
+    --button-text-color: #fff;
+
+    --hover-bg-color: #E9F5FE;
+    --hover-text-color: #2196f3;
+    --hover-icons-color: #2196f3;
+    --hover-button-color: #2196f3;
+    --hover-input-block-color: #fff;
+    --hover-number-block-color: #fff;
+}
